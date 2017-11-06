@@ -1,6 +1,0 @@
-use_frameworks!
-target 'CoreMLProto_Tests' do
-  pod 'CoreMLProto', :path => '../'
-  
-  
-end
